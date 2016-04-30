@@ -1,0 +1,53 @@
+32 T. R. Tnmm ‚
+
+maintenant que tout cela ait lieu aetuellement, on sera donc sfir que cette
+formula pom-ra etre appliquee aux cylindres avec autaut de profit qu'elle l'a
+ete au cas des ellipsoides. La velem· de lc nous donnera donc la mesure
+exacte du pouvoir magnetique du fer.
+
+VI. VanICAwoN Dm LA Fomwnn nn M. N EUMANN, AU GAs
+Dns CYLINDRsss. ’
+
+39. Pour executer cette verification j'ai fait usage d’un barreau
+
+marque (4), qui fut chauffe vivement au dessus du rouge et refroidi tres
+lentement avec le fourneau.
+
+Le pouvoir d'induction de ce bam-ean fut compare avec celui du
+barreau (8), dont l'etat magnetique doit etro regarde comme constant pen-
+dant toutes les experiences. Depuis, 16 diametre du barreau (4) fut dimi-
+nue plusieurs fois, et les memes observations furent repetees.
+
+En estet, si la formule de M. NEUMANN est vraie au cas des cylin-
+d1·‚es on doit necessairement 1··‚et1ouver comme nous venons de le dire
+(11⁰ 38), la meme valeur de lc dans toutes ces experiences; 6( voiei la mar-
+che a suivre quon trouve a laide de cette formule aussi bien pour les
+obsolvations ἰ( faire que pour 16 calcul a executel.
+
+40. Mettons¹ pour le barreau (8) la formule de M. NEUMANN sous
+la forme
+
+Ma
+
+ 
+
+(34) qs = ugHtang'i = constante,
+et pout· un bam-cau (4) quelconque
+M„ k„
+
+ 
+
+ 
+
+(35) q„ Ξ mfftangz· Ξ 1÷471k„s„ ⁹
+
+6( divisons les deux expressions, l'une par l'autre.
+
+On aura donc, en posant
+
+(36) A ᾖ j} = f„ ,
+tout simplement
+(3⁷) q„ = fas , ’
+
+pour calculer la valeur de q„.
+

@@ -1,0 +1,48 @@
+EINIGE MATHEMATISCHE AUFSATZE. 21
+
+so sind τ, το und τ1 die Winkel, welche die Tang-ente im Beriihrungs-
+punkte mit den Axen der a: und ‘²⁶0 , und (lie Tangente der Rolleurve 11111
+(161· Axe der mo oder ml maeht.
+
+Dah er hat man
+
+ὃΞτ-το.
+
+Es wird vorteilhaft sein, die besehreibende Cmve in Polareoordina-
+teu darzustessen. Setzt man
+
+(ὃ) m = r eosq& 3 y = r sinqo ‚
+so werden die Gleichungen (1)
+Ι „2²1 = „2⁴0 — r COSQ—J)
+
+<4³ m = 1) - ‚⁴ sine—s> ·
+
+ξ. 2. Rectzflcation, Tanyfflzte, K'ri'mmnmzq.
+Die Gleiehungen (3) geben differentiirt mit Zuziehung (161· Gleiehun-
+gen (2)
+eosr = r‘eoscp —- rqo¹sin<2>
+
+sin? = r¹sin<2> -{- r φόοεφ
+woraus:
+
+ν* = οοε(φ--τ> ; 1’φ’ = — sin(qD—†).
+
+Mit Anweudung dieser Werte erhalt man (1111611 Differentiation cler Glei-
+ehungen (4):
+
+- eos-r1 = — 2⁰3¹ sium—S)
+
+,δὲ sin-rl = 2⁶3¹ περ-ἓ)
+
+bs
+woraus:
+(ὃ) Ta Ξ φ *- ὃ *1- ζ
+(6) ὂ51 = ra& sl = ‘offis'
+
+Hierdureh ist zu gleieher Zeit der Bogen der Rolletu·ve s1 ⁷ der Richtungs-
+winkel ihrer Tangente τ1 , und die Kriimmung
+
+,-1(ι1φ
+
+‘1-5· {aff-¹)
+

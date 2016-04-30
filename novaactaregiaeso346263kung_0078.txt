@@ -1,0 +1,49 @@
+38 Τ. R. ΤΗΑΙᾸΞΝ ,
+
+Representons maintenant par m et y les variations dans la valeur de
+I qu'ont produites l'elevation de temperatum de 1⁰ C. et 13 (Ιυτόθ (16 temps
+egale ἐι 24 heures, et designons de plus par Tle temps ecoule entre le
+moment de l⁷observation et'l'esspoque moyenne donnee ci-dessus dans le
+tableau. En se servant de 13 formule
+
+(42) Ι8 = 8,631—}—oe(t - 13077)÷y (T—1861,06)‚
+
+et en supposant les observations &galement precises, ou trouvera, par 13
+methode des moindres omres,
+
+x = -1- omo-:2228
+y = — 0,0011901 .
+
+Ces valeurs nous donnent les differences suivantes entre les valeurs
+observees et celles que l'on calcule d'apres 13 formule precedente:
+
+ 
+
+M Ι ε
+
+1 — 0,002
+2 -— 0,002
+3 «Ι- 0,017
+4 — 0,0·³5
+5 “ -ὶ- Qum
+
+ 
+
+d'on l'on deduit 13 somme des carres de ces differences
+Σ ε2 = 0,0012 .
+
+Au contraire, si l'on ne'glige tout-a-fait cette influence de la tempe-
+rature et du temps, on trouve
+
+Σ 8² = 0‚0192.
+
+Par consequent, on doit conclure de cela que la methode d'obser-
+vation suivie par nous permet tres bien de constater les variations men-
+tionnees, et de plus que les valeurs calcule'es de m et de y sont au moins
+approximativement les vraies.
+
+46. Comparons maintenant les nornbres trouves avec ceux donnes
+
+par M. LAMONT. En mettant l’expression (4⁶2) sous une forme plus con*
+venable, on aura
+

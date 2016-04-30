@@ -1,0 +1,46 @@
+4 R. HOPPE.
+
+und behalt nach Elimination von u, v, w 110011 n—3 lineare Relationen
+
+zwisehen den m, α, b, c iibrig. Es handelt sich deshalb nur 11111 dje Dar—
+stellung einer Relafion, die offenbar nieht linear sein kann.
+
+Statt diese letzte Relation fiir eine beljebige Axenlage zu 011111110111,
+soll es vielmehr unsere gegenwafflge Aufgabe sein, die bemerkenswertesten
+Falle aufzuffflnen, wo sie, analog der Gleiehung (1), in einer eonstanten
+Quadratsnmme der x besteht. Es wird sich zeigen, dassbdie Grenzen die-
+ser Eigensehaft sehr weite sind.
+
+ξ. 2.
+Die Quadratsumme der Gleiehuugen (2) gibt:
+
+(ὃ) Σ υ-ΖΞΉῖΣαῖ ι υειΣόἳ μωαΣσπ
+-1- 2υ1υΣόσ —1— 21υῖιΣ ca -Ι- ΞῑιυΣ ab.
+Da sich nun die variabeln Coeffieienten der 3 letzten Summen gar
+
+1110111, (110 3 ersten 11111· naeh Gleichung (1) rational auf einander redueiren
+
+lassen, so kann die Gresse (3) nur dann constant sein, wenn zu gleieher
+Zeit
+
+(4) Σ =Eb2= Σο·2
+(5) ΣόοΞΣοα ΞΣαόΞΟ
+ist. Alsdann aber wnd
+Σαῖε Σόἳε Σσῖεὸ Σ(α2-1-ὂ2-Ι-εἳ);ξΣ1Ξξ,
+
+folglieh nach Gleichung (3)
+
+‘12
+
+Σωῖῐ (u2-{-v²—†-w²)} = ἒ,
+
+1111(1 wis haben den Satz:
+
+[qt elie Quadratsumme der cos. der Richtngyswinlcel einer variabeln
+
+Geraclen §essen n feste Aoeen constant, so ist sie = ⁷} .
+
+Es handelt sich im Folgenden darum Falle aufzusuehen, in denen
+die Bedingungen (4) (5) durch regelmassige Lage der Axen erfiillt werden.
+Der Einfaehheit wegen denken wir sammth'ehe Axen durch einen Punkt
+

@@ -1,0 +1,43 @@
+Emer: MATHEMATISCHE AUFsATZE. 5
+
+gehend, und beffieksiehtigen nur eine der 2 entgegengesetzten Riehtungen
+einer jeden, gleiohviel welche, weil beide fiir (116 Gleiehungen (3) (4) (5)
+identische Werte ergeben.
+
+g. 3.
+
+Die Gleichungen (4) werden auf die einfaehste Weise erffillt, wenn
+man dmehgangig
+
+ak2 = bs) Ξ ck²
+
+setzt.. Dann gibt es 11111· 2 Werte fiir ak, bk, ck, daher nur folgende 4
+Systeme desselben:
+
+÷ V} ‚ ÷ V} ‚ ÷ V}
+— V} ‚ ÷ V} , 4 V}
+Die denselben entspreehenden 4 Axen erfiillen einzeln die (3161611611-
+
+gen (4), alle zusammen auch, wie leieht zu seben, die Gleiehungen (5).
+Sie sind die Diagonalen eines Hexaeders.
+
+ξ. 4.
+
+Femer kann man die Gleiehungen (4) ohne Bestimmung 111161· (116
+6111Ζ6111611 Werte dadurch erfifflen, dass man 3 Gruppen von Axen anm'mm‘t7
+die der Reihe nach durch Vertausehung der rechtwmkligen Axen aus ein-
+ander heworgehen, derart dass Jedem System α, b, c 2 andere b, c, α
+1111(1 c, a, b entspreehen. Ist diess geschehen, so geniigt zur Erfiffllmg
+der Gleiehungen (5) dass fur eine Gruppe
+
+(6) Σ(ὂσ-1-σα-1-αό)--Ο
+661.
+Hat man nun 3 Gerade, deren Riehmngen durch die Systeme
+
+a, b,c
+ὒ,σ,α
+c‚a, b
+
+ausgedriickt sind, so ist
+bc -ξ- ca -Ι- ab
+

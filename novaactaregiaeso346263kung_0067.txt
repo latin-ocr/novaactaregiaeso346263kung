@@ -1,0 +1,62 @@
+Rncnmzcnns SUR LES Pnommlzm's MAGNssTIQUES nn FER. 27
+
+En introduisant ces valeurs dans la formule (24), on aura
+log M = zon-‚0 - log N.
+
+La difficulte la plus essentielle dans cette methode‚ c'est de fixer
+assez rigoureusement la valeur de Ὺ. Cependant‚ on pourra supposer
+sans aucun doute qu'elle doit &tre renfermee entre la moitie et les trois
+quat-ts de la longueur du barreau. Celle-ci e'tant de 400¹¹¹³¹¹-, nous avons
+calcule' les valeurs (16 M pour plusieurs valeurs de ‹y‚ depuis 31:200mm
+jusqu'z‘t γε 300''¹¹¹¹·‚ dont voici les resultats.
+
+ 
+
+ 
+
+ 
+
+ 
+
+loy N loy M
+Hy 20066- 0 29897 6, 87853
+250 0 29843 6, 87907
+300 ἱ 0,) 39734 6, 88026
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nous verrons tout de suite ἐι quel degni cette valeur de M co‘l'n-
+cide avec celles obtenues par les autres methodes.
+
+3⁶2. Deuoeibme me'thode. ,J’ai employe trois aimants, dont les mo—
+ments magnetiques furent determines par des experiences speciales suivant
+la methode connue de deviation et d'oscillation. Les valeurs trouvees sont:
+log C'l = 7‚06736
+log Ο 2 &0710ss
+log 0³ = Gna-»m .
+
+On a tire chacun de ces aimants du centre de l'helice le long de
+l'axe ἐι une distance en dehors du bout de l'helice assez considerable pour
+qu'on puisse regal-der l'induction provenant d'un mouvement ulterieur de
+
+l'aimant comme tout-a-fait negligeable. Les mesures des courants d'in-
+duction obtenues sont
+
+’ἔοι = 397‚68
+ἑο, = 158‚00
+{0³ Ξ 119,37 .
+L'helice avec 16 barreau (8) et l'heliee seule ont donne
+
+a = 545,rs et b = 5211.
+
+En substituant ces valeurs dans la formule (27) on trouvera la va-
+leur de M determinee par les trois aimants
+

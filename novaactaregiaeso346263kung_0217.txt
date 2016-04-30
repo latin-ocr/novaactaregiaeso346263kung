@@ -1,0 +1,55 @@
+EmGE MATHEMATISCHE AUFSATZE. 11
+
+Π.
+
+{seber Spleiire'selze Curven und deren Polaren.
+
+g. 1.
+
+Der &abste Gegenstand des vorliegenden Aufsatzes ist die Herlei-
+tung einiger allgemeinen Eigensehaften der spharischen Gurven. Die Glei-
+chung einer Kugelfiz'tche vom Radius 1 sei
+
+(1) oe²†y²†z²=1.
+Differenfiirt gibt sie:
+(2) oeoe¹÷yy¹422¹ = Ο ,
+
+wo die Aecente Differetialquotienten nach dem Bogen einer auf der Kugel-
+flache besohriebenen Curve bezeichnen mssgffll, so dass man hat:
+
+(2) oe12÷y124212 = ·
+
+Beide Gleichungen geben nach nochmaliger Differentiation:
+(4) mmm —ff-yy‘* -ff— ΜΗ = — 1
+
+(5) oetoen ÷y¹yu†ztzu = O
+
+Ist ρ der Krstmmmgsradffls, so hat man noch:
+
+(6) ww Ξ 20³— .
+
+Verbindet man diese 6 Gleiohungen zu je dreien wie folgt:
+(1) (2) (4) zm· Bestimmung von m, y, z
+(2) (3) (5) w ⁷7 ν) ‘²³¹7 3¹¹³ 2¹
+(4) (5) (6) υ 2⁷ π ‘ff‘ ⁹ 9¹¹ ν 2¹¹ ν
+
+wahrend dieselben 9 Grbssen jedesmal die Coefficienten darstellen, und be-
+
+zeichnet die Determinanten durch fiihr Anfangsglidmin eckigen Klammern7
+so ergibt sich:
+
+ 
+
+ 
+
+Ι ω = [ψῖῌῷἴῷ ; eto.
+my ΖΗ
+(7) - 0⁶¹ = [9¹¹²] 3 eto.
+Ι [xy¹z¹¹]
+Ι mu: 3¹²[yZIJ—[ylzss] ς etc·
+[oeffzfl] ⁷
+
+ 
+
+nebst je zwei analogen Gleichungen.
+

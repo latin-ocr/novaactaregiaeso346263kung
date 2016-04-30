@@ -1,0 +1,48 @@
+DmERmNER LA RELATION ETC. 15
+
+et
+Α, ΑΠΗ Am: Ο Ο 0
+Αο Αῃ ΑΖ,Π 0 Ο Ο
+Ο Α, ΑΠΗ Ο O O
+O AU An Ο Ο Ο
+
+O 0 O . . 14(„‚.„,‚„4‚s10„)„†,0
+0 0 0 . . ΑΜΕ ΑΜ ΑΜ,
+0 0 ο . . Α ΑΜ,ῃ ΛΠ,
+
+(ῐ-3)ι]
+
+En portant cette valeur de 00¹¹ dans les n—2 equations restantes,
+savoir (21) . . . . (22), on trouvera des equations necessaires de eonditions,
+au nombre de η-2, qui combinees avec celle de (24) exprimerent evi—
+demment les conditions necessaires et suffisantes pour que les equations
+
+(19), (20), (21) . . . . (22) soient satisfaites simultanement par une seule
+valeur commune de an.
+
+Nous allons maintenant demontrer qu'on trouvera ces conditions ne-
+cessaires et suffisantes, au nombre de η-1 , en appliquant
+
+1⁰ sur deux des equations (19), (20), (21) . . . (22),
+
+20 sur ees deux equations combinees avec une troisieme‚ prise par·
+mi les autres equati0118‚
+
+3⁰ sur ces trois equations avec une quatrieme, et ainsi de suite,
+
+la methode employee ci-dessus pour parvenir du systeme des equations
+mentionnees ἐι celle de (23); (Γοὺ il suit que l'equation (23) est elle-meme
+une des conditions en question.
+
+Soient
+
+(⁶25) ‹pl-20, oe2=0‚ ff s=02····-‘1n-2=⁰
+
+les conditions necessaires et suffisantes, pour que les n-1 premieres e-
+quations du systeme des equations mentionnees existent simultanfflnent, il
+sera tres aise de demontrer le theoreme que nous venons de nous proposer.
+Pour cela, il suffit de faire voir que l'equation de condition necessaire et
+suffisante, pour que la racine commune de ces equations, au nombre de
+n—-l , doive satisfaire l'equation (22), pourra se reduire ἐι l'equation (23)
+au moyen des equations (⁶25).
+

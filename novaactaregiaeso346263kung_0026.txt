@@ -1,0 +1,39 @@
+12 V. VON Zm‘ssL ‚
+
+et si on dfiveloppe ee dezterminant, on obtient
+(19) Aoa‘n -ι- An. a4‘·¹³·¹¹ -Ι- An,- a(¹'²)·¹¹ 4 Aaua(¹'³’'¹¹ -ι- ..... -}- Am = ο,
+οὺ
+
+rn Ξ m.
+
+La condition 1160essaire pour l'existence simultanzie des &quatiens du
+syst'eme (15) est
+
+Αι -1 0 Ο 0
+A ἦ, au —-1 0 0
+Α 1 Ο an 0 Ο
+
+flu-nnn 0 0 . . —l 0
+2404an 0 0 . . an —1
+ΑΠιῌΗ 0 0 . . Ο a¹¹
+
+ou, si on developpe le dssterminant,
+(20) A¹am÷ ΑΒΗ. a(¹·¹)¹³÷ Amm- a(¹·²)¹³÷ Affiffl. α(’“3)“-Ι- . . . . ÷ ΑΠἩΓι = o ‚
+οὺ
+
+r η ἶ (m — 1).
+
+La condition 116cessaire pour l’existence simultam'ee des &quatiens
+du systo‘eme (16) est
+Α2 —1 Ο . . 0 0
+ΑΗ,2 a¹¹ —1 . . 0 Ο
+Α2ιμΗ 0 a¹¹ . . 0 Ο
+
+Α(,,2,,,ἾμΞ 0 ο . . -1 ο
+A(r-1)n†² 0 0 . . au - 1
+ΑΨΓ2 0 0 . . 0 a¹¹
+et, quand on de'weloppe le disterminant,
+(21) A2am÷ ΑΜ. a(¹·¹)·¹¹÷ A2n÷2a(¹'²)¹¹† Asn÷2a(''³)¹¹† . . . . -Ι- Arn÷2 = o,
+
+οὺ
+

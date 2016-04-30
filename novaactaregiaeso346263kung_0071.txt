@@ -1,0 +1,53 @@
+nasamonas sua Las 1306313133 memnones Du FER. 31
+
+38. Ce qu'on doit de‘terminer ainsi, en voulant eliminer l'infiuence
+de la forme du barreau, c'est la limite, vers laquelle tend indefiniment la
+variation (lu moment magnetique de l'unite du poids du fer, induit par
+l'unite de la force inductive‚ ἓι mesure que l'epaisseur du barreau par rap-
+port 3 sa longueur tend vers zero. Dans ce cas on obtiendra, comme l’a
+prouve M. NEUMANN, la valeur maxima de la dite variation. au moins
+quand on opere avec des barreaux de la forme d'une ellipso'l'de (16 revolution.
+
+Voici la formule de Μ. ΝΕΗΜΑΝΝ, qu’on trouve dans le Journal (16
+mathematique pure et appliquee de CRELLE,¹)
+
+(31) ‘l Ξ *1÷ 4knks'
+
+En prenant
+(32) σ =
+
+ 
+
+l
+Vl2—(2r)‘·' '
+οὺ Z et 22« signifient les deux axes de l'ellipso’l'de de revolution, la quan-
+tite S sera exprime par
+
+ 
+
+ 
+
+ 
+
+(33) S = 0‘(‹5²—1) ἐξ log minz* ἰ - ³7} .
+
+C'est de cette sormule qu'a fait usage plusieurs fois M. anm, en
+operant avec des cylindres, quoiqu'il n'ait pas publie encore les verifications
+qui justitient, en general, au cas des cylindres, l'emploi d'une formule, cal-
+culee specialement pour des ellipso'l'des. Hatons nous d'ajouter que, dans
+tous les cas, οὺ il a fait usage de cette formule, l'epaisseur du cylindre a
+ete tres petite par rapport a la longueur et que par consequent il a pu
+adoptet sans aucune hesitation la formule comme tout-a-fait juste. Ce-
+pendant, on concoit qu'une telle verification‚ faite par des experiences di-
+rectes, possedera un grand interet. Et, en effet, pour l’executer‚ il faudrait
+seulement changer plusieurs fois le rapport entre la longueur et l'epaisseur
+d'un meme barreau, tontes choses egales d'ailleurs, mesurer chaque fois
+l'induction produite et faire le calcul d'apres la formule (16 M. NEUMANN.
+Si donc la formule conserve sa justesse aussi bien pour les cylindres que
+pour les ellipsoides‚ on doit naturellement retrouver dans tous ces cas 13
+meme valeur (16 lc, nomme par M. NEUMANN le coes-ficiem mayne'tique du
+fer. Enfin, si l'on donne ἐι notre barreau la forme d'un ellipso'l'de de revo-
+lution, la meme valeur (16 lc doit se presenter encore une fois. Suppose
+
+1) B. 37., s. 463 et Abhandl. d. k. Gesellsch. d. Wiss. zu G6tfingcn, B. 6, p. 20.
+

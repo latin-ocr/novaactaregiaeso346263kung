@@ -1,0 +1,41 @@
+12 R. HOPPE.
+
+Die Gleichungen des Radius, d. i. einer Geraden vom Anfangs-
+punkt nach myz, sind, wenn ξ, η, ζ (116 lausenden Ooordinaten bezeichnen,
+
+ξ :ss
+
+Ξ
+oe y z
+
+und zwar sind wegen Gleichung (1) at, y, z selbst die cos. seiner Richtungs-
+winkel. Da nach Gleichung (2) (116 Tangente der Curve auf dem Radius
+senkrecht steht, so liegt der Radjus in der Normalebene, und bildet mit der
+Hauptnormale und Polljnie ein rechtwinkliches Dreieek. Ist demnach ω der
+Winkel zwisehen dem Radius und der Pollinie, so ist der Winkel zwischen
+
+dem Radius und der Hauptnormale = ω -μξ ‚ und man hat:
+
+cosm = ml -Ι- ym —!- κη = ρ [mffzfl]
+——- since = ρ (oeaffl -†— yy¹¹ -1- 22¹¹) z — ρ
+wo Z ‚ mast die cos. der Richtungswinkel der Poffinie bezeichnen. Dem-
+nach hat man
+(8) ρ Ξ sina)
+(9) [x 9¹2⁰] = coto) .
+Mit Beachtung der Werte von Z, m ‚ η , namlich
+l = ρ [y¹z¹⁴] 3 etc.
+werden jetzt die 9 Gleichungen (7)
+
+(10) x cosm = l -— [yffi] sina> 3 etc.
+(11) m¹cosco = [y¹¹z] since 3 etc.
+(12) oe⁴¹cosw = ἐξ - Z 3 etc.
+
+woraus durch Eliminafion von [ρκ’] und Z
+
+(13) m ψ 5⁶⁴¹ sinzo = Z cosa) ς etc.
+
+(14) (oe 4- ff) sina) = [με’] cosm 3 etc.
+
+Die Gleichungen (13) zeigen, dass die Coordinaten des Kriimmungsmittel-
+punkts, numlioh x 4- 9² 03¹¹ ⁷ etc. den Gleichungen
+

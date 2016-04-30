@@ -1,0 +1,51 @@
+10 R. HOPPE.
+
+Nimmt man 11161116 Κ1ᾶ1126 von je beliebig vielen Axen an, so hat
+
+man fiir jeden einzeln:
+n ,
+Ξ sm²oe -— neos²oe = A,
+
+WOl'aUS :
+
+Voz--2A
+COS d = 3¹12 .
+
+ 
+
+Die versehiedenen A sind ganz beliebig so zu wahlende Grbssen
+{}m1d ζ - η, dass
+Σ Α = 0
+wird. Als Beispiel der Anwendung erhalt man fiir Al =V5‚ Α, = ——V5
+zwei Kranze zu J'e 5 Axen, welche die diametralen Diagonalen eines Do-
+dekaeders sind. Der Winkel S* ist hier fiir beide Kranze dieselbe Grfisse.
+
+ξ. 7.
+
+Von hier kann man leieht noch einen 80111111 weiter gehen. Substi—
+tuirt man die Werte (11) (5) 111 Gleiehung (3), so kommt:
+
+{176² = (u2 -ὶ- 22²) ⁹} sinu = w²n 008²oe
+2
+
+= Ξ si1120e. -1- η (008²oe —- ᾗ sin200)w2.
+
+,Jetzt kann man von den reehtwinkligen Axen, deren bloss 61116 vor-
+1ςο1111111, 6106611611, und w einfach als (1611 eos. des Winkels zwischen der
+Mitteflinie des Kranzes und der variabeln Geraden betraehten. Bildet man
+111111 11111 beliebige andre Mittellinien Kranze von gleicher Neigung α, und
+
+gleieher Axenzahl n, und (1611111 {120² 111161 alle Axen aus, so wird 250²
+
+constant, wem] {211² constant ist3 d. h. wem] die Mittellinien zusammen den
+Bedjngungen (4) (5) geniigen. Dieser Umstand gibt uns folgenden Satz:
+
+Die Quadratsumme der cos. cler Richt¹zm98zvinlcel einer variabam Ge·-
+raden yeyen beliebzy viele reyulc'c're Axenlcrcmze ist constant und yleiclz ξ der
+Anzahl der Amen, wemz 1) die Amahl cler Amen jedes Kranzes, 2) die
+Neiyuny darselben yeyen ihre illittellz'm'en fi‘or alle dieselbe ist, und 3) jane
+Quadratsumme in Bezuy aus die Mittellinien constant ist.
+
+Jene Quadxatsumme andert sich also 1116111, wenn man beliebige Kran-
+ze um ihre Mittellinien dreht, oder die gemeinsame Neigung variiren lasst.
+

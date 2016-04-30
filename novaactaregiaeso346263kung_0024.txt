@@ -1,0 +1,42 @@
+10 V. von ZELPEL ‚
+
+Dans le systeme (13) on trouve sur la premiere ligne n equations εὶ
+membres monomes, ou a¹¹ ne parait pas; sur la seconde ligne (φη-Ξη-ι- 1)
+equations dont les membres gauches sont binomes, ou an est un facteur du
+dernier terme; et sur la derniere ligne n equations ἐι membres monomes
+comme celles de la premiere ligne, mais qui, comme celles de la 2⁶⁹ ligne,
+contiennent an dans un des membres.
+
+Pour eliminer les (m—n÷1) quantite‘s b, et obtenir les η equations‚
+qui restent, et dans lesquelles ne se trouvent que les quantites connues A
+et les puissanees de αι’, nous divisons les equations de (13) en n groupeS‚
+comme il suit
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ΑΟ —b040 ÷0 ÷0 ..÷0 ÷0 Ξ0
+Α,1 ÷b0a¹¹——b„ -ι-0 ÷0 . . ÷0 ÷0 =0
+Α211 ÷0 ηιόυιιΠ-ίέΞΠ ÷0 . . ÷0 ÷0 = o
+Α3η ÷0 ÷0 ÷b2na⁰—b3„ . . ÷0 ÷0 =0
+(14) Ἰ .
+ΛΜΨ ÷ 0 ÷ 0 ÷ Ο ÷ 0 . . - bom„ ÷ 0 = 0
+Ast„n ÷ 0 ÷ Ο -ι- 0 -ι- 0 . . ÷ b(„‚2)„a¹¹— bow] = 0
+[Am 4- 0 ÷ 0 ÷ 0 ÷ 0 . . ÷ 0 ÷ b(„,1)„a¹³ = 0 ,
+οὺ rn est le plus grand multiple de n qui n’excede pas m,
+A¹ -b140 40 ÷0 ..÷0 ÷0 =0
+AFr¹ ÷b2a¹²—b„÷1 40 ÷0 ..÷0 ÷0 Ξο
+A²t¹÷¹ ÷0 ψ &ssew—&ff1 ÷0 .. ÷0 40 = 0
+A3¹1÷¹ ÷ 0 ÷ 0 ÷ &unffi-baum . . ÷ 0 ÷ 0 = 0
+(15) .
+'Ao-mm& 0 ÷ 0 ÷ 0 ÷ 0 . . —bffm4¹ ÷ 0 = 0
+A(„,¹)„41÷ Ο -1- Ο ÷ 0 ÷ 0 . . ÷ b(f,2)„÷,a”—b(„,‚,„÷1 = Ο
+lAm÷1 ÷ 0 ÷ 0 ÷ ο ÷ 0 . . ÷ 0 ÷ b(„,¹‚„41a¹¹= ο
+
+ou φη est 16 plus grand multiple de n qui 11⁷excede pas (φη-1),
+

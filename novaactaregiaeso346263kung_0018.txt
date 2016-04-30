@@ -1,0 +1,48 @@
+4 V. VON ZEIPEL‚
+
+et pour m impair
+(⁷) A0a¹¹¹⁴÷A2amss÷A4aw⁵ ΔΓ . . . . ÷ AM = ο.
+
+La condition necessaire pour l'existence simultanee des equations
+du systeme (4) est
+
+A¹ - 1 ο 0 ο 0
+
+A3 αι2 - 1 0 0 Ο
+
+Α5 Ο α2 Ο Ο 0
+
+A7 0 ο 0 ο 0
+(8) . . . . . . . . . Σ 0
+
+Affl ο 0 . . .-— 1 0 ο
+
+ΑΜ, 0 0 α2 — 1 0
+
+Am,3 Ο O 0 α2 - 1
+
+ΑιῐΗ 0 ο 0 o οι2 Ι
+si m est un nombre pair. Dans ce cas l'ordre du determinant est ξς mais
+si m est un nombre impair l'ordre du determinant sera Ψ et sa premiere
+
+colonne devient Am A3, As, . . . . ΑΜ, AM, Am.
+La developpement de ce determinant donne, m pair
+
+(9) Aspen-2 *i* Astu-4 *i- Astu-⁶4 - · . . —{·- ‚Am-¹ = 0 3
+m impair
+(10) ΑιοιΠΗ -t- A3a'n'3 —†- A5a¹'¹'³-}- . . . . -ξ- An, = Ο .
+
+La condition necessaire pour que les equations (6) et (9) aussi
+bien que (7) et (10) aient une valeur commune de αἳ, et qui ne depend pas
+de la parite de m lequel pourra &tre pair ou impair‚ s'exprime par l'equation
+
+A¹ A³ A⁵ . ο o ο
+A⁰ A2 A4 0 ο 0
+ο Al A„ ο 0 o
+ο A⁰ A² ο 0 ο
+(11) . . . . . . . . . Σ Ο
+ο 0 ο . Am,2 A„ ο
+ο ο 0 . Am*³ Am,l ο
+0 ο 0 . ΑΠΝ AMAm
+ο 0 ο . A‚‚,-5A„¹,³A,„,¹
+

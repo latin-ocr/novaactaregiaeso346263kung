@@ -1,0 +1,52 @@
+6 R. HOPPE.
+
+der cos. des Winkels zwischen je zweien von ihnen. Demnach schliessen
+Je 3 entsprechende Axen eine gleiohseifige Eoke ein, und Gleichung (6)
+verlangt, dass die cos. der Seiten dieser Ecken eine Summe = O haben.
+
+Wahlt man nach Belieben eine Reihe von Grbssem deren Summe
+= Ο ist, und die ffloerffless, weil dje Seite einer gleichseitigen dreikantigen
+Ecke nieht >}7r sein kann, ‘immer zwisehen 1 und -ξ liegen missen,
+bezeichnet durch <pk die Seite der lem Ecke, und verteilt jene Grbssen als -
+
+Werte unter die cosqok, so ist die Bedingtmg (6) erfffllt, und es bleibt nur
+fflnig, aus den Gleiohungen
+
+bc÷ca÷ab=cosp
+a2—ff—b2-{—c2=1
+
+die Werte von a, b, c zu finden.
+Dureh Verbindung beider ergibt sich:
+
+(a -μ b ψ 0>² = 1 ψ Ξοοεφ
+(τ) (ει-ὀ) (οι-ε) ÷ <b—0>2 = 1 — cosv-
+
+Da es gleiohgiilfig ist, welchen Arm der gesuchten Axe man bestimmt,
+so kann man
+
+ 
+
+(8) a -Ι- b —f- c = V14-2oosq>
+positiv annehmen. Setzt man
+b — c = 23* ‚
+
+so wird Gleiehung (7)
+
+<aq— (gfff -Ι- ὃὸἳ = 1 — Οοεφ ‚
+
+woraUS
+
+a—QJ=‡VW
+
+und in Verbindung mit Gleichung (8)
+
+ 
+
+s a = {VH-2005& ὲ ξ 1—-cosq>——3c>W
+(9) j b Ξ ὲιΛῃοοεφ ss -31- νιῖῥὸὲῷἱῖὃῖ ÷ A*
+l c = ξ ῙΧΪῖῙ-Ξοοεφ ss ξ ῙΧΙ--Ἦᾷῗ-’ῗῖὃῖ - ὃ.
+
+ 
+
+ 
+

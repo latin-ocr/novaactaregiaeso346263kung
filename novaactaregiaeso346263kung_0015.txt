@@ -1,0 +1,36 @@
+QffisseQspffiQQfflae——ss
+
+DETERMINER LA RELATION QUI DOIT EXISTER ENTRE
+LES COEFFIOIENTS D'UN POLYNOME, DONT LA LETTRE
+PRINCIPALE EST x, POUR QUE LE POLYNOME CON-
+TIENNE UN FAOTEUR DE LA FORME (κη-ω).
+
+PAR
+V. von zEIPEL.
+
+ 
+
+I.
+Pour mieux illustrer cette relation nous allons premierement nous occuper
+d'une examination de 13 forme que prend 13 fonction, quand le factem·
+
+susnomme 3 13 forme (eff—af).
+
+Soit
+Fam)=A0mm÷A‚oem-¹÷A,.oem-²÷ . . . . ψ Am
+10 polynome algebraique (1011110, et soit de plus
+(1) F(m) = (oe·— a²)f(x) ,
+ou sm) =b„m“·²÷b1ae‘”·³÷b2aem-⁴÷ . . . . Ἴμόημῖ.
+
+En executant la multiplication indiquee dans 10 membre droit de 1⁷1}-
+quation (1), et en egalant entr'eux les coeffieients des puissances corre-
+spondantes de x, on obtient les equations suivantes
+
+Ib¹J=A0 2 b1=l11s
+
+(⁴2) b2— b0a9= sl² ‚ b3—b¹a²= Α3 , b4— b2a2= A4 ’ , ⁵ ⁶ . ὂΗι-ὶ- b‚„-4a²=Am-2 ⁹
+l—-bm,3a²= Am„¹ ‚ - bm-‹.·a²= Am·
+En examinant 10 systeme d'equa‘ss'ons (⁶2) on remarque (13115 13 [1γρ-
+
+miere ligne deux equations, dont chaque membre est un monome et qui
+

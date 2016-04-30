@@ -1,0 +1,44 @@
+DE'TERifflmR LA RELATmN ETc. 5
+
+L'cquation (11) est la condition nocessaire et suffisante pour que 16
+polynome F(oe) contienne un factem· de la forme (effi—0⁶²).
+
+En effet, l'oquation (11) &tant la condition necessaire et suffisante
+pour que les &quations (6) et (9) dans 16 cas οὺ m est pair, ou les ‹iqua-
+tions (7) et (10), dans 16 cas οὺ m est impair, aient une valeur commune
+de αἳ, et cette derniore (etant Ia condition nieoessaire et suffisante pour que
+les valeurs donnoes aux indctermimsss b satisfassent aux systcmes (3) et (4),
+c'est-zi-dire, pour que 16 groupe d'efquations (2) puisse exister, ce qui est
+la condition nocessaire et suffisante pour l'oquation (1), -- il s'ensuit que
+l'oquation (11) est la condition ioecessaire et suffisante pour que le polynome
+
+Fac) ait un factem- de la forme (Off—⁰⁶²) (1 Q F D
+
+Si 16 polynome donno Fax) est du egam degni, l'cquation (11) se rie—
+duit tout silnplement εὶ
+
+A,=0.
+
+Si Fan) est du 31⁶¹¹¹⁰ degress, cette &quation devient
+
+ 
+
+A¹ Α3
+A„ Α, Ι “ ⁰
+Si Fsoe) est du 4“·Ῐῃρ degi-ie:
+A. A³ 0
+Ao A² A ——- ο,
+0 Αι Α
+
+ 
+
+ 
+
+Et si F(x) est du 5²0¹¹¹e degro, 011 obtient
+
+ 
+
+ 
+
+³0
+

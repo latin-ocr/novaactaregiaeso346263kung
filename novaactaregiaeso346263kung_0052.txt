@@ -1,0 +1,39 @@
+12 T. R. THALisszN ‚
+
+lation l'intensite de la composante horizontale on doit employerla formule1)
+(10) log H = 0,877947 -- 210g T-1- 0‚00025 (t — 15⁰),
+
+dont les constantes ont ete determinees par des observations speciales.
+
+ΙΙΙ. L'Hilimcn.
+
+13. Apres avoir exposci d'une maniere generale les instruments em..
+ployes et la methode de s'en servir, il nous faut indiquer quelle est Ia
+forme de l'helice la plus avantageuse pour notre but. A cet egard, nous
+reniarquons des ὰ present qu'elle doit etre telle que dans toute l’etendue
+int6rieure, οὺ est placee notre barre en fer, la force electro-magnetique de
+l'helice exerce le meme effort sur chaque point de la barre. Mais pour
+atteindre ce but, il faut donner ἐι l'helice une longueur qui surpasse avec
+le double celle de la barre. C’est, en effet, cela qu'a indique M. WEBER
+depuis bien longternps dans ses ouvrages sur l'electro-dynamique, et c'est
+de telles helices qu'il a fait usage constemment dans ses recherches electro-
+magnetiques et electro-diamagnetiques
+
+Reciproquement‚ s'il s'agit de courants d'induction que la barre en
+fer, placee de la nianiere indiquee‚ devrait induire dans le fil de l'helice,
+celle-ci doit posse'der les proprietes que nous venons d'annoncer et les di-
+mensions relatives en doivent rester encore les memes.
+
+Cela pose, il nous faut prouver que l'helice‚ employee dans nos
+experiences, jouit de ces proprietes‚ ὲ savoir qu'elle agit avec la meme
+force electro—magnetique sur chaque point de la barre, placee symmetri-
+quement autour du milieu de l'helice, et, d'un autre cote, que tous les
+points de la barre peuvent produire des courants d'induction dans l'helice
+de la meme intensite. Dans le premier cas, nous appliquerons la formule
+donnee par M. WEBER, mais dans le second cas nous mesurerons directe-
+ment l'intensite des courants d'induetion, produits par une force inductive
+emanant successivement des differents points de l'interieur de l'helice.
+
+1) Magnetischc Messungen iu Deutschland und Frankreich, 1844, von A. J. Ᾰηρεῐνὸιης s. 125. Voy.
+d. Resultatc d. Magn. Observat. in Mfinehen 1843—45 von Dr. LAMoN'r.
+

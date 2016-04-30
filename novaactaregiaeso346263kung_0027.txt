@@ -1,0 +1,39 @@
+DF'JTERMINER LA RELATION ETG. 13
+
+La condition nocessaire pour l'existence simultane'aee des &quations du
+systinne (17) est
+
+ΑΒ, —1 O 0 0
+A , a„ —1 0 0
+A2 ι 0 an 0 0
+· = O
+Ast„ , 0 ο -1 0
+Arm Ο Ο α, —1
+
+A(r-}-¹)n-1 Ο O . . Ο an
+
+d'01‘1, en doveloppant le dessterminant5 on trouve
+(22) Ami am *i* A2n-1· air-lm *i* A3n·1 · amun—i* Asu-1· ὤμω-4.· · · - *i* A(r÷l)n-1: 0,
+
+οὺ
+r n Ξ (m—n—f- 1).
+
+La condition nieoessaire pour l'existence simultaniae des (aquations
+(19), (20), (21), (2⁵2 est
+
+'An-1 Λευ-ι Asu-1 Anm · · A(r-3)n-l A(r-2)n-1 A(r-1)n-1 Aru-¹ Ι
+Am Anu-2 A3n-2 *ΑΜ-2 A(r-s)n-‘› A(r-2)n-2 A( ι) Aru-2
+An-sx ΑΒΗ Asu-3 ¹ Ain-3 A(r-3)n 3 A(r-2)n 3 A(r-1)n-z Aru-³
+Am Ami-4 ΛΞΜ-4 A4n-4 A( -3)n—4 A(r-2)n 4 A(r-1)n-4 *Am-4
+Aa A ÷2 Azm As *2 Atr-sm-(n 3) A(r-2)n-(u-3) A(r-¹)1¹-(n-³) Aru-(ms)
+(23) At Α ÷1 Azn 1 A3n÷1 A(r-a)n-(n .) A(r-2)n-(u-2› A(r-1)n-(n-2) Alfi-(¹¹4) Ξ 0
+
+Ao An Azn Assn A(r-a)n-(n-1) A(r-2)n-(n-1) A(r-1)u-(n-x) Aru—(¹14)
+O A ι A2n-1 Asni Anna) n A(r-‘.⁷)n-n A(r-1)n-n Aru-n
+
+Ο Ο Ο 0 A( 3)n÷r÷3 A( )÷ 3 A(i·-l)n† 43 A r÷3
+Ο 0 O Ο Α( 3)n÷r÷2 A( 2) ÷ ÷2 A(r-1)n÷ ÷2 A n-r÷2
+
+O Ο O O A( ³)n÷r÷1 A( 2)n÷ ÷1 A(r-1)n÷ ÷1 An ÷1
+Ο O Ο Ο ΑΗ),Η Α( ) A(r,.„2.r Am.
+

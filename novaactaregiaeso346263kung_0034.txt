@@ -1,0 +1,60 @@
+20 V. VON ZEIPEL‚
+
+Si m=6, et n=3‚ on aura
+
+[ιο-1 0 ο
+Ι
+
+ 
+
+ 
+
+— A x 0 0 —IJA
+ἵζω- Α2 ο x -1 P
+A3 Ο Ο xl
+
+sim210‚etn=3:
+
+,ΑΟ-1 Ο Ο .. 0
+
+Α, ,κ’-1 0 .. Ο A0-—1 Ο 0 Ο
+
+Α2 0 x—1 .. 0 Α, x-1 0 0
+f(oe)= A3 ο 0 x .. 1)-ξΑ2 0 x-l 0÷(})²ffi⁰‘‡.
+
+A 0 0 ,κ’-1 ¹
+
+ 
+
+ 
+
+ 
+
+{Ayeoomx
+
+lv.
+
+Soient
+(40) F(oe) = onm—l—Alxm'¹-}- A2oem·²-l- ..... -l- Am = Ο
+
+une equation donne'e‚ et
+
+F'(oe), F‘'(m), F'“(m), . . . . .
+les fonctions derivees suecessives de Fa) ‚ divisees respectivement par le
+
+produit de tous les nombres entiers depuis zm jusqu'au nombre de l'indice
+de la derive'e, et soit ensuite
+
+m=u-†—v‚
+
+laquelle valem- de m doit etre substituee dans l'equation (30), on aura ‹ivi-
+demment
+
+(31) F(u÷v) :umFm(v) ÷2cm-¹.Fm-1(v) men-2. Fm-²<v) ψ . . . . ww> ÷ F(v)=0.
+
+Si actuellement nous desirons choisir une telle valeur de v dans
+l'e'quation precedente (31) que la quantite u obtienne deux valeurs nume'ri-
+
+quement egales entre elles5 mais de signes contraires, il faut que v soit une
+des racines de l'e'quation re'duite
+

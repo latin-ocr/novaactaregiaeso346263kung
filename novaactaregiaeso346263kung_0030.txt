@@ -1,0 +1,36 @@
+16 V. voN Zmrm,
+
+De‘monstratz'ovz. Supposons en effet que
+(26) φη,1 = 0
+
+soit l'equation qu'on trouve, en portant dans l'e'qssation (22) la racine cornv
+mune des autres equations. La relation obtenue par cette operation doit
+evidemment etre du premier degre par rapport aux constantes oontenues
+dans l'equation (22). S'il ‹itait possible que l'e'quation (26) ne psit etre re-
+duite a lequation (23) au moyen des relations (25), nous obtiendrions‚
+en eliminant a l⁷aide des equations (25) et (26) l'un cles oo'effioients de l'e'-
+quation (22), par exemple ΑΗ,1 , une nouvelle relation necessaire entre les
+autres coefficients qui se trouvent dans (22), excepte naturellement la oon-
+stante nommee ΑΗ. Mais, une telle relation etant tout-a-fait absurde, nous
+pouvons dono conclure que l'e'quation (26) pourra etre reduite a celle de
+(23) au moyen des relations connues auparavant (25); ce qu'il fallait de—
+montrer.
+
+Ainsi, les conditions necessaires et suffisantes, pour que les equa-
+tions (19), (20), (21) . . . (22) puissent exister simultanenient, seront
+
+Α( An& A2n÷1 A³n÷1 s' 4n÷1
+Αο An A2¹1 ΑΜ Α4η
+O Αι Aa& A2u÷1 Ama-1
+(27) 0 Α0 Αη A2„ Α3η = Ο
+O O A¹ A¹¹÷¹ ΛὶψΗ ’
+0 O Αυ ΑΠ A2„ . Ι
+A2 An÷2 A2n÷2 ΑΜ.) A4n÷2
+²41 An÷1 AZn-{ 1 A3n÷1 A4n†1
+Ao A„ Am Aa„ ²4⁴
+(23) 0 Α2 Α a ΑΜ Ama — O
+“ Ο A1 A ÷¹ A2u÷1 A341 —
+Ο Αἱ, Α 142⁰ Aa
+
+et
+

@@ -1,0 +1,59 @@
+14 V. voN mezn,
+
+Remarque. La lettre r, qui pal-ait dans les formules prebce'dentes,
+n'a pas la msme valeur arithme'tique dans toutes ees formules3 elle peut au
+contraire dans quelques-unes des formules signifier tel nombre, et en quel-
+ques autres tel autre. ll faut aussi se rappeler que tout A dont l'intlice
+est plus grand que m est ἐι consider& comme &gal ὲι ΖρΓο.
+
+Si une seule valeur commune de a⁷¹ satisfait les &quations (19), (20),
+(21) ..... (22), il faut qu'il y ait parmi ees &quations au moins deux qui
+ne posssdent qu'une seule valeur commune de 0⁶¹¹, et cela doit avoir lieu
+independamment du fait, si les autres &quations se trouvent satisfaites par
+une ou plusieurs valeurs communes. Supposons maintenant que ce soient
+les &quations (19) et (20) qui ne poss'edent qu'une seule valeur commune
+de affl, il faut d'aprss l'squation (11) que
+
+A¹ Α,μΗ A2¹¹÷¹ . . Ο O Ο
+A„ An A2¹¹ 0 0 0
+Ο A, An÷¹ O O Ο
+O A⁰ An . . . . Ο Ο Ο
+(24) . . . . . . . . . . . . . . = Ο
+
+0 0 0 . . . . Ast„¹¹ Am 0
+0 0 O . . . . A(„‚2„„‚A(1,„„„A„m
+0 O 0 . . . . Am)n ΑΜ, Arn
+
+soit dans ce cas la condition 111'30essaire et suffisante pour l'existence des
+propriste'ss mentionnt'ees des &quations (19) et (20). Mais, nous savong de
+plus, suivant le paragraphe ΙΙ, que
+
+a=—-—
+
+P
+
+sera cette racine commune, en reprksentant par P et P‘ les valeurs suivantes:
+
+A¹ An÷= ΑΖΗ, . 0 O
+Ao An A2¹¹
+
+0 Α, A&¹
+0 A A
+
+0
+
+Ο
+Ο Ο Ο
+0 Ο Ο
+Ο O Ο
+
+Ο · · Α -2)n÷1A<r-1)n÷lA1-n÷1
+
+(ι-
+
+ο 0
+0 ο 0 . . ΑΜ Affl)n Arn
+0 ο 0 . . ΑΜΜΑΉΜ A
+
+¹ (r-nJu÷l
+
